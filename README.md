@@ -11,7 +11,7 @@ Atualmente em constante evolução, com o objetivo de conquistar minha primeira 
 
 ---
 
-## 💻 Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <p align="left">
   <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -52,6 +52,6 @@ Além da programação, também trabalho com:
 
 ---
 
-## 🐍 Snake Game
+## 🐍
 
 ![Snake animation](https://github.com/SarahSsoliveira/SarahSsoliveira/blob/output/github-contribution-grid-snake-dark.svg)
