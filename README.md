@@ -1,17 +1,15 @@
 # 👩‍💻🎨 Sarah Oliveira
 
-**Desenvolvedora Full Stack Júnior **
+**Desenvolvedora Full Stack Júnior**
 
-Desenvolvedora Full Stack Júnior com foco no desenvolvimento de aplicações web. 
-Possuo experiência com HTML, CSS, JavaScript, React, Node.js, Java e SQL, 
-buscando sempre aprimorar minhas habilidades através de projetos práticos.
+Desenvolvedora Full Stack Júnior com foco no desenvolvimento de aplicações web.  
+Possuo experiência com HTML, CSS, JavaScript, React, Node.js, Java e SQL, buscando sempre aprimorar minhas habilidades através de projetos práticos.
 
-Tenho interesse em atuar no desenvolvimento de sistemas completos, desde a 
-interface até o back-end, prezando por código organizado, boas práticas e 
-interfaces bem estruturadas.
+Tenho interesse em atuar no desenvolvimento de sistemas completos, desde a interface até o back-end, prezando por código organizado, boas práticas e interfaces bem estruturadas.
 
-Atualmente em constante evolução, com o objetivo de conquistar minha primeira 
-oportunidade na área de tecnologia.
+Atualmente em constante evolução, com o objetivo de conquistar minha primeira oportunidade na área de tecnologia.
+
+---
 
 ## 💻 Tecnologias
 
@@ -43,13 +41,17 @@ Além da programação, também trabalho com:
 <p>
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=SarahSsoliveira&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=SarahSsoliveira&show_icons=true&theme=midnight-purple&hide_border=true"
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSsoliveira&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSsoliveira&layout=compact&theme=midnight-purple&hide_border=true"
   />
 </p>
 
 ---
+
+## 🐍 Snake Game
+
+![Snake animation](https://github.com/SarahSsoliveira/SarahSsoliveira/blob/output/github-contribution-grid-snake-dark.svg)
