@@ -1,4 +1,4 @@
-# 👩‍💻🎨 Sarah Oliveira
+#  Sarah Oliveira 👩‍💻
 
 **Desenvolvedora Full Stack Júnior**
 
