@@ -25,17 +25,6 @@ Atualmente em constante evolução, com o objetivo de conquistar minha primeira 
 
 ---
 
-## 🎨 Criatividade além do código
-
-Além da programação, também trabalho com:
-- Quadros artesanais  
-- Pintura e criação artística  
-- Design visual  
-
-💡 Acredito que isso me ajuda a criar interfaces mais bonitas e intuitivas.
-
----
-
 ## 📊 Estatísticas
 
 <p>
